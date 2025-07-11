@@ -1,7 +1,6 @@
-
 # docChat-ai
 
-<!-- Badges -->
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Personal Project](https://img.shields.io/badge/Type-Personal-blue.svg)]()
 [![FastAPI](https://img.shields.io/badge/Framework-FastAPI-0077B6?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
